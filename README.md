@@ -40,12 +40,7 @@ Portfolio/
 ├── index.html          # Main HTML file
 ├── styles.css          # Custom CSS styles
 ├── script.js           # JavaScript functionality
-├── images/
-│   └── photo.jpg       # Profile picture
-├── css/
-│   └── bootstrap.css   # Bootstrap CSS (if using local)
-├── js/
-│   └── bootstrap.bundle.js # Bootstrap JS (if using local)
+├──  photo.jpg       # Profile picture
 └── README.md           # This file
 ```
 
@@ -53,7 +48,7 @@ Portfolio/
 
 1. **Open the website**: Simply open `index.html` in your web browser
 2. **Customize content**: Edit the HTML file to update your information
-3. **Add your photo**: Replace `images/photo.jpg` with your profile picture
+3. **Add your photo**: Replace `photo.jpg` with your profile picture
 4. **Update projects**: Modify the projects section with your actual projects
 5. **Adjust skills**: Update the skills and proficiency levels
 
